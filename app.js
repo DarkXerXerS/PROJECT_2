@@ -19,4 +19,10 @@ let age = 100 // age in years
 let isMarried = true
 
 console.log(firstName, lastName, country, city, age, isMarried)
-
+// comment can make code readable
+// Welcome to 30DaysOfJavaScript
+/**
+ * comment can make code readable
+ * easy to reuse 
+ * and informative
+ */
